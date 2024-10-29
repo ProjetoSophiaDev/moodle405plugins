@@ -120,7 +120,7 @@ git submodule add -b main https://github.com/srobotta/moodle-tiny_cloze.git lib/
 ```
 - https://github.com/bfh/moodle-tiny_fontcolor
 ```bash
-git submodule add -b master https://github.com/bfh/moodle-tiny_fontcolor.git lib/editor/tiny/plugins/fontcolor
+git submodule add -b main https://github.com/bfh/moodle-tiny_fontcolor.git lib/editor/tiny/plugins/fontcolor
 ```
 
 - https://github.com/dthies/moodle-tiny_preview
