@@ -1,4 +1,4 @@
-# moodle404plugins
+# moodle405plugins
 - https://moodledev.io/general/releases/4.5
 
 ## Moodle Update
