@@ -152,7 +152,7 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 
 - https://github.com/remotelearner/moodle-block_grade_me
 ```bash
-git submodule add -b MOODLE_403_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
+git submodule add -b MOODLE_405_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
 ```
 
 ### QTYPE
