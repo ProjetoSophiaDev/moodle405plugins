@@ -231,7 +231,7 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_coursec
 
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### ADMIN
