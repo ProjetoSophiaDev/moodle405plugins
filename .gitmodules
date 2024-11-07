@@ -186,3 +186,7 @@
 	path = moodle/theme/academi
 	url = https://github.com/ProjetoSophiaDev/academi.git
 	branch = main
+[submodule "moodle/admin/tool/objectfs"]
+	path = moodle/admin/tool/objectfs
+	url = https://github.com/catalyst/moodle-tool_objectfs.git
+	branch = MOODLE_402_STABLE
