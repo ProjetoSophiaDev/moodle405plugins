@@ -286,6 +286,11 @@ git submodule add -b moodle44 https://bitbucket.org/dw8/moodle-format_tiles.git 
 git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
+- https://github.com/jrangelardila/moodle-format_buttons
+```bash
+git submodule add -b master https://github.com/jrangelardila/moodle-format_buttons.git course/format/buttons
+```
+
 ### USER
 - https://gitlab.com/adapta/moodle-profilefield_brasilufmunicipio
 ```bash
