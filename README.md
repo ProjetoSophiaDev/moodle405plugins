@@ -227,6 +227,23 @@ git submodule add -b main https://github.com/MFreakNL/moodle-availability_ipaddr
 git submodule add -b main https://github.com/ewallah/moodle-availability_coursecompleted.git availability/condition/coursecompleted
 ```
 
+### AWS
+
+- https://github.com/catalyst/moodle-local_aws
+```bash
+git submodule add -b master https://github.com/catalyst/moodle-local_aws.git local/aws
+```
+
+- https://github.com/catalyst/moodle-tool_objectfs
+```bash
+git submodule add -b MOODLE_402_STABLE https://github.com/catalyst/moodle-tool_objectfs.git admin/tool/objectfs
+```
+
+- https://github.com/catalyst/moodle-tool_s3logs
+```bash
+git submodule add -b master https://github.com/catalyst/moodle-tool_s3logs.git admin/tool/s3logs
+```
+
 ### LOCAL
 
 - https://github.com/moodleuulm/moodle-local_sandbox
