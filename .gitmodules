@@ -202,3 +202,7 @@
 	path = moodle/course/format/buttons
 	url = https://github.com/jrangelardila/moodle-format_buttons.git
 	branch = master
+[submodule "moodle/admin/tool/opcache"]
+	path = moodle/admin/tool/opcache
+	url = https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git
+	branch = MOODLE_405_STABLE
