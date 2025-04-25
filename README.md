@@ -288,7 +288,7 @@ git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_eta
 
 - https://github.com/jrangelardila/moodle-format_buttons
 ```bash
-git submodule add -b master https://github.com/jrangelardila/moodle-format_buttons.git course/format/buttons
+git submodule add -b 4.x https://github.com/jrangelardila/moodle-format_buttons.git course/format/buttons
 ```
 
 ### USER
