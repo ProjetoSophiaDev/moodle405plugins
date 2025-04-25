@@ -236,12 +236,12 @@ git submodule add -b master https://github.com/catalyst/moodle-local_aws.git loc
 
 - https://github.com/catalyst/moodle-tool_objectfs
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/catalyst/moodle-tool_objectfs.git admin/tool/objectfs
+git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_objectfs.git admin/tool/objectfs
 ```
 
 - https://github.com/catalyst/moodle-tool_s3logs
 ```bash
-git submodule add -b master https://github.com/catalyst/moodle-tool_s3logs.git admin/tool/s3logs
+git submodule add -b MOODLE_405_STABLE https://github.com/catalyst/moodle-tool_s3logs.git admin/tool/s3logs
 ```
 
 ### LOCAL
