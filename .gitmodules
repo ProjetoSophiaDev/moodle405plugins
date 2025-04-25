@@ -202,3 +202,7 @@
 	path = moodle/report/allbackups
 	url = https://github.com/catalyst/moodle-report_allbackups.git
 	branch = MOODLE_404_STABLE
+[submodule "moodle/admin/tool/s3logs"]
+	path = moodle/admin/tool/s3logs
+	url = https://github.com/catalyst/moodle-tool_s3logs.git
+	branch = MOODLE_405_STABLE
