@@ -195,7 +195,7 @@ git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
 ```bash
-git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
+git submodule add -b MOODLE_401_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
 ```
 
 - https://github.com/mikasmart/moodle-report_benchmark
@@ -205,7 +205,7 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 - https://github.com/catalyst/moodle-report_allbackups
 
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
+git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
 ```
 
 ### AVAILABILITY
