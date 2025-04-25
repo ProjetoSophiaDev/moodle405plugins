@@ -34,10 +34,6 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/mod/subcourse"]
-	path = moodle/mod/subcourse
-	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
-	branch = MOODLE_404_STABLE
 [submodule "moodle/mod/scheduler"]
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
