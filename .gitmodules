@@ -138,10 +138,6 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = MOODLE_405_STABLE
-[submodule "moodle/admin/tool/coursearchiver"]
-	path = moodle/admin/tool/coursearchiver
-	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
-	branch = master
 [submodule "moodle/admin/tool/certificate"]
 	path = moodle/admin/tool/certificate
 	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
