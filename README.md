@@ -255,7 +255,7 @@ git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-loca
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
-git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
+git submodule add -b 4.x-4.5-branch https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
 
 - https://github.com/moodleworkplace/moodle-tool_certificate
