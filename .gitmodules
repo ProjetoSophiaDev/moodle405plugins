@@ -118,10 +118,6 @@
 	path = moodle/report/benchmark
 	url = https://github.com/mikasmart/moodle-report_benchmark.git
 	branch = master
-[submodule "moodle/availability/condition/relativedate"]
-	path = moodle/availability/condition/relativedate
-	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	branch = main
 [submodule "moodle/availability/condition/sectioncompleted"]
 	path = moodle/availability/condition/sectioncompleted
 	url = https://github.com/bdecentgmbh/moodle-availability_sectioncompleted.git
