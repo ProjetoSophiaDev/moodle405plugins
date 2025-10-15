@@ -202,7 +202,3 @@
 	path = moodle/availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
 	branch = MOODLE_500_STABLE
-[submodule "moodle/availability/condition/relativedate"]
-	path = moodle/availability/condition/relativedate
-	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	branch = MOODLE_500_STABLE
