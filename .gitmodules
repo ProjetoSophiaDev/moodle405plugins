@@ -202,3 +202,7 @@
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ProjetoSophiaDev/moodle-availability_relativedate.git
 	branch = main
+[submodule "moodle/availability/condition/coursecompleted"]
+	path = moodle/availability/condition/coursecompleted
+	url = https://github.com/ProjetoSophiaDev/moodle-availability_coursecompleted.git
+	branch = main
