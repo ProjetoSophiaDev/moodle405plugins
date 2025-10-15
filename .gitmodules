@@ -198,10 +198,6 @@
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
 	branch = 4.x-4.5-branch
-[submodule "moodle/availability/condition/coursecompleted"]
-	path = moodle/availability/condition/coursecompleted
-	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
-	branch = MOODLE_500_STABLE
 [submodule "moodle/availability/condition/relativedate"]
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ProjetoSophiaDev/moodle-availability_relativedate.git
