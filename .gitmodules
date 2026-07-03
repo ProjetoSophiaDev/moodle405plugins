@@ -202,3 +202,7 @@
 	path = moodle/availability/condition/coursecompleted
 	url = https://github.com/ProjetoSophiaDev/moodle-availability_coursecompleted.git
 	branch = main
+[submodule "moodle/question/type/vplquestion"]
+	path = moodle/question/type/vplquestion
+	url = https://github.com/AdrianoRuseler/moodle-qtype_vplquestion.git
+	branch = master
